@@ -17,7 +17,7 @@ import org.firstinspires.ftc.teamcode.mechanisms.FeederLauncher;
 
 
 @Autonomous(name="RedTeamBotAutoSimple", group="Drive")
-@Disabled
+//@Disabled
 public class RedTeamBotAutoSimple extends OpMode {
 
     // Drivetrain motors (312 rpm goBILDA)
